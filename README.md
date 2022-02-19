@@ -8,6 +8,6 @@
 ![2](https://user-images.githubusercontent.com/37132897/154781484-60bc2a59-42a3-4a6d-af1d-47e46d5582a4.png)
 
 ### * 사용자가 가위 바위 보 중 하나를 선택하면,
-###   컴퓨터가 고른 가위 바위 보 를 보여주며, 승패를 보이스로 말해준다.
+###   컴퓨터가 고른 가위 바위 보 를 큰 이미지로 보여주며, 승패를 보이스로 말해준다.
 ![3](https://user-images.githubusercontent.com/37132897/154781486-6f049442-10da-4e80-88d0-04ac6b122aca.png)
 
